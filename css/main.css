@@ -102,7 +102,7 @@ html {
 }
 
 body {
-  /* set height to 100% - these are important for allowing content to vertically align */
+  height: 100%;
 }
 
 .wrapper {
