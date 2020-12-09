@@ -98,6 +98,7 @@ textarea {
 /*Large Background Image*/
 html {
   background: url('../img/bkgd-cake.jpg') no-repeat center center fixed;
+  height: 100%;
 }
 
 body {
